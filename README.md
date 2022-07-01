@@ -1,2 +1,2 @@
-# tailwind-react-demo
+# Tailwind-react-demo
 This is repo I used to study reactJs tailwindcss etc...
