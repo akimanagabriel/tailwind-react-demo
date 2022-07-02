@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.active {
+    @apply text-yellow-500 font-bold hover:text-yellow-400;
+}
+
+*{
+    font-family: 'Roboto';
+    letter-spacing: 1px;
+    font-size: 15px;
+}
